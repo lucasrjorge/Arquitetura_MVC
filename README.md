@@ -1,7 +1,5 @@
 # Arquitetura_MVC
 
-# Nome do Projeto: INSPA Animal Welfare Analysis Tool
-
 ## Descrição
 Este projeto é uma aplicação web responsiva projetada para coletar dados sobre a adoção, compra e abandono de cães e gatos. O objetivo é entender os motivos subjacentes a essas ações para reduzir a negligência e os maus-tratos. A aplicação é compatível com navegadores Chrome e Firefox e otimizada para dispositivos móveis e desktops.
 
